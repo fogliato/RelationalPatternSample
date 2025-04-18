@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelationalPattern", "RelationalPattern\RelationalPattern.csproj", "{93D039F4-0C7B-47DD-9B55-2242260C5424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelationalPatternTest", "RelationalPatternTest\RelationalPatternTest.csproj", "{687E5253-9FF5-447F-9BFB-7C6B6CC07B9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93D039F4-0C7B-47DD-9B55-2242260C5424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D039F4-0C7B-47DD-9B55-2242260C5424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D039F4-0C7B-47DD-9B55-2242260C5424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D039F4-0C7B-47DD-9B55-2242260C5424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{687E5253-9FF5-447F-9BFB-7C6B6CC07B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687E5253-9FF5-447F-9BFB-7C6B6CC07B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687E5253-9FF5-447F-9BFB-7C6B6CC07B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687E5253-9FF5-447F-9BFB-7C6B6CC07B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
